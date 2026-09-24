@@ -1,0 +1,24 @@
+{
+  "name": "SAEPchef",
+  "version": "1.0.0",
+  "description": "Um projeto exemplo em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "steffani_santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.0"
+  }
+}
